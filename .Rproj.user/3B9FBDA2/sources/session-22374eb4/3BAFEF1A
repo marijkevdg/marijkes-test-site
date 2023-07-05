@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/marijkes-test-site/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "4075945791",
+    "hash": "3081861082",
     "contents": "",
     "dirty": false,
     "created": 1688583232456.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,0",
+        "cursorPosition": "6,14",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1688583883,
+    "lastKnownWriteTime": 1688585099,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1688583883798,
+    "last_content_update": 1688585099049,
     "read_only": false,
     "read_only_alternatives": []
 }

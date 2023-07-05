@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/marijkes-test-site/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "625238058",
     "contents": "",
     "dirty": false,
     "created": 1688583231884.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1688583228,
+    "lastKnownWriteTime": 1688585080,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1688583228,
+    "last_content_update": 1688585080134,
     "read_only": false,
     "read_only_alternatives": []
 }
